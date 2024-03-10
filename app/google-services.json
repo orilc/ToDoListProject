@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257332559136",
+    "project_id": "to-do-list-project-orilc",
+    "storage_bucket": "to-do-list-project-orilc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257332559136:android:40cae8d8b20e3988d6ab45",
+        "android_client_info": {
+          "package_name": "com.example.todolistproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_u0Gn3Z7QcDriIddVgpwmSxd1CcbIu5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
